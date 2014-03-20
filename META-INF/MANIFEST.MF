@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ListBindingFail
+Bundle-SymbolicName: ListBindingFail
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.junit,
+ org.eclipse.core.databinding,
+ org.eclipse.core.runtime
